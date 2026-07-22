@@ -18,5 +18,5 @@
 ### 1. Клонирование репозитория
 
 ```bash
-git clone https://github.com/ВАШ_НИК/telegram-reporter.git
+git clone https://github.com/Wortex116/telegram-reporter.git
 cd telegram-reporter
